@@ -1,3 +1,5 @@
+[![M8ven Score](https://m8ven.ai/badge/mcp/rwa-data-mcp-ve362d)](https://m8ven.ai/mcp/rwa-data-mcp-ve362d?s=readme)
+
 # 365rwa.vip RWA Data MCP Server
 
 中文区唯一机器可读的 **RWA（现实世界资产代币化）结构化数据源**，以 MCP（Model Context Protocol）远程服务端形式提供，按次计费走 x402 协议（USDC / Base 主网）。
